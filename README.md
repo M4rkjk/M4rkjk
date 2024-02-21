@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋👋👋
 
 <h1 align="center">Hello 🙋‍♂️, I'm Mark</h1>
 <h3 align="center">Currently I am studying at - Jedlik Anyos Gépipari és Informatikai Technikum</h3>
