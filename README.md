@@ -3,8 +3,11 @@
 <h1 align="center">Hello 🙋‍♂️, I'm Mark</h1>
 <h3 align="center">Currently I am studying at - Jedlik Anyos Gépipari és Informatikai Technikum</h3>
 
-
-![- Find   Share on GIPHY](https://github.com/M4rkjk/M4rkjk/assets/144492665/9d6fea75-8515-4beb-8a22-fabb9711fe3d)
+<div align="center">
+  
+  ![- Find   Share on GIPHY](https://github.com/M4rkjk/M4rkjk/assets/144492665/9d6fea75-8515-4beb-8a22-fabb9711fe3d)
+  
+</div>
 
 
 
