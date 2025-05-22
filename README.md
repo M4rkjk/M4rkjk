@@ -64,7 +64,6 @@ Calendar-based desktop task planner written in C# using .NET MAUI.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M4rkjk&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rkjk&layout=compact&theme=radical" alt="Top Languages" />
 </p>
