@@ -1,57 +1,82 @@
-# 👋 Hi there, I'm Márk Horváth
+<h1 align="center">Hi there 👋, I'm Márk Horváth</h1>
+<h3 align="center">Junior Software Developer | Laravel • Angular • .NET MAUI • C#</h3>
 
-🎓 Junior Software Developer | 💻 Laravel • Angular • C# • .NET MAUI  
-📍 Based in Hungary | Currently studying in Győr
-
----
-
-## 👨‍💻 About Me
-
-I'm an aspiring software developer passionate about building practical applications using modern technologies like Laravel, Angular, and .NET MAUI. I enjoy solving problems, learning independently, and collaborating in teams. I am currently looking for opportunities to gain hands-on experience in software development or IT support roles.
+<p align="center">
+  <a href="https://github.com/M4rkjk">
+    <img src="https://komarev.com/ghpvc/?username=M4rkjk&label=Profile%20views&color=0e75b6&style=flat" alt="M4rkjk" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Technologies & Tools
+## 🙋‍♂️ About Me
 
-- **Backend:** Laravel (RESTful APIs, Authentication, File Handling)  
-- **Frontend:** Angular, Vue.js, HTML, CSS, JavaScript  
-- **Mobile:** .NET MAUI  
-- **Desktop:** C# (.NET MAUI)  
-- **Database:** MySQL, SQLite  
-- **Version Control:** Git & GitHub  
-- **Others:** PC assembly, troubleshooting, Microsoft Office, Windows OS
+- 💡 Passionate about web, mobile, and desktop app development  
+- 🧠 Focused on learning and growing through real-world projects  
+- 🤝 Eager to collaborate in a team and open to mentorship and feedback  
+- 🎓 Currently studying Software Development at Jedlik Ányos Technikum, Győr
 
 ---
 
-## 🛠️ Projects
+## 🔧 Technologies & Tools
 
-### 🏋️‍♂️ Fitness App (Final Project)
-**Stack:** Laravel (API), Vue.js, .NET MAUI  
-**Features:**
-- User registration & login  
-- Profile management & avatar upload  
-- Workout plan management  
-- Recipe upload & calorie tracking  
+### 🚀 Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/.NET_MAUI-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
+</p>
 
-### 🌐 Web Portfolio Site
-A simple portfolio built with HTML, CSS, and JavaScript showcasing my projects and skills.
-
-### 🗓️ Task Manager Desktop App
-A basic calendar and task manager built using C# and .NET MAUI.
+### 💾 Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rkjk&layout=compact&theme=radical)
+### 🏋️‍♂️ **Fitness App (Final Exam Project)**
+**Stack:** Laravel API • Vue.js • .NET MAUI  
+**Features:**  
+✅ Authentication (Login, Register)  
+✅ Avatar Upload & Profile Management  
+✅ Workout Plans  
+✅ Recipe Submission & Calorie Tracking  
+
+### 🌐 **Personal Portfolio Website**  
+Simple static website using HTML, CSS & JS showcasing my projects.
+
+### 🗓️ **Task Manager Desktop App**  
+Calendar-based desktop task planner written in C# using .NET MAUI.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M4rkjk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4rkjk&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- Email: horvath.mark0928@gmail.com  
-- GitHub: [github.com/M4rkjk](https://github.com/M4rkjk)
+- ✉️ Email: [horvath.mark0928@gmail.com](mailto:horvath.mark0928@gmail.com)  
+- 🧑‍💻 GitHub: [M4rkjk](https://github.com/M4rkjk)
 
 ---
 
-*“Continuous learning and collaboration are key to growth — I'm always open to new opportunities and challenges.”*
+> *"Continuous learning and collaboration are key to growth — I'm always open to new opportunities and challenges."*
+
