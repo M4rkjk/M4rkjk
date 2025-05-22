@@ -1,18 +1,59 @@
-### 👋👋👋
+# 👋 Hi there, I'm Márk Horváth
 
-<h1 align="center">Hello 🙋‍♂️, I'm Mark</h1>
-<h3 align="center">Currently I am studying at - Jedlik Anyos Gépipari és Informatikai Technikum</h3>
+🎓 Junior Software Developer | 💻 Laravel • Angular • C# • .NET MAUI  
+📍 Based in Hungary | Currently studying in Győr
 
-<div align="center">
-  
-  ![- Find   Share on GIPHY](https://github.com/M4rkjk/M4rkjk/assets/144492665/9d6fea75-8515-4beb-8a22-fabb9711fe3d)
-  
-</div>
+---
 
+## 👨‍💻 About Me
 
+I'm an aspiring software developer passionate about building practical applications using modern technologies like Laravel, Angular, and .NET MAUI. I enjoy solving problems, learning independently, and collaborating in teams. I am currently looking for opportunities to gain hands-on experience in software development or IT support roles.
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Technologies & Tools
+
+- **Backend:** Laravel (RESTful APIs, Authentication, File Handling)  
+- **Frontend:** Angular, Vue.js, HTML, CSS, JavaScript  
+- **Mobile:** .NET MAUI  
+- **Desktop:** C# (.NET MAUI)  
+- **Database:** MySQL, SQLite  
+- **Version Control:** Git & GitHub  
+- **Others:** PC assembly, troubleshooting, Microsoft Office, Windows OS
+
+---
+
+## 🛠️ Projects
+
+### 🏋️‍♂️ Fitness App (Final Project)
+**Stack:** Laravel (API), Vue.js, .NET MAUI  
+**Features:**
+- User registration & login  
+- Profile management & avatar upload  
+- Workout plan management  
+- Recipe upload & calorie tracking  
+
+### 🌐 Web Portfolio Site
+A simple portfolio built with HTML, CSS, and JavaScript showcasing my projects and skills.
+
+### 🗓️ Task Manager Desktop App
+A basic calendar and task manager built using C# and .NET MAUI.
+
+---
+
+## 📊 GitHub Stats
+
+![Márk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4rkjk&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4rkjk&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- Email: horvath.mark0928@gmail.com  
+- GitHub: [github.com/M4rkjk](https://github.com/M4rkjk)
+
+---
+
+*“Continuous learning and collaboration are key to growth — I'm always open to new opportunities and challenges.”*
