@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Márk Horváth</h1>
 <h3 align="center">Junior Software Developer | Laravel • Angular • .NET MAUI • C#</h3>
 
-<p align="center">
-  <a href="https://github.com/M4rkjk">
-    <img src="https://komarev.com/ghpvc/?username=M4rkjk&label=Profile%20views&color=0e75b6&style=flat" alt="M4rkjk" />
-  </a>
-</p>
 
 ---
 
